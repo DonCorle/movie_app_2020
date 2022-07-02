@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DonCorle/movie_app_2020/static/css/main.fbb3da84.css",
+    "main.js": "/DonCorle/movie_app_2020/static/js/main.8ff0b980.js",
+    "index.html": "/DonCorle/movie_app_2020/index.html",
+    "main.fbb3da84.css.map": "/DonCorle/movie_app_2020/static/css/main.fbb3da84.css.map",
+    "main.8ff0b980.js.map": "/DonCorle/movie_app_2020/static/js/main.8ff0b980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb3da84.css",
+    "static/js/main.8ff0b980.js"
+  ]
+}
